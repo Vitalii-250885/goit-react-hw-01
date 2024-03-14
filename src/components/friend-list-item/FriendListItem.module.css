@@ -1,0 +1,21 @@
+.friendListItem {
+  padding: 8px;
+
+  border: 2px solid #000000;
+  border-radius: 8px;
+}
+
+.name {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.online {
+  color: rgb(0, 255, 0);
+  font-size: 12px;
+}
+
+.offline {
+  color: rgb(255, 0, 0);
+  font-size: 12px;
+}

@@ -1,0 +1,16 @@
+.cell {
+  border: 2px solid #000000;
+  width: 33.33%;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #a4a4a4;
+}
+
+tbody tr {
+  background-image: url(noise.png);
+}
